@@ -1,0 +1,19 @@
+# this is a comment and will be ignored
+
+# ----------------------------------
+# syntax:
+#    repetitions,filepath
+#
+# example:
+#    10,d:\path\to\video-1.mp4
+#    5,d:\path\to\video-2.mp4
+# ----------------------------------
+
+3,d:\_livestream\assets\myviz\2-20230620.mp4
+3,d:\_livestream\assets\myviz\3-20230620.mp4
+3,d:\_livestream\assets\myviz\6-20230625.mov
+
+6,d:\_livestream\assets\myviz\2021-lost_memory.mp4
+5,d:\_livestream\assets\myviz\2021-subweird1.mp4
+
+10,d:\_livestream\assets\myviz\2021-tunnel_b21_4_3.mp4
