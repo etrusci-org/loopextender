@@ -1,0 +1,7 @@
+# this is a comment and will be ignored
+
+# syntax: repetitions,filepath
+
+3,d:\videos\loop1.mp4
+3,d:\videos\loop2.mp4
+3,d:\videos\loop3.mov
