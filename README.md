@@ -30,6 +30,8 @@ optional arguments:
   -s, --shuffle    shuffle the output order
 ```
 
+See the example [input](./doc/example.input.txt) and [output](./doc/example.output.m3u) files too.
+
 ---
 
 ## Motivation
